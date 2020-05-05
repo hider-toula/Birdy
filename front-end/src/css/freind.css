@@ -1,0 +1,55 @@
+h4{
+	color:  white;
+	padding-top: 28px;
+	padding-left: 10px;
+}
+
+
+.containe{
+	width: 370px;
+	border: 3px solid RGB(59,83,101);
+	margin-top: 20px;
+	margin-left: 15px;
+	background-color: RGB(59,83,101);
+	border-radius: 15px;
+}
+.lien10{
+	color:RGB(20,31,42);
+	margin-left: 65px;
+	background-color:  RGB(59,83,101);
+	border: RGB(20,31,42);
+
+}
+.lien20{
+	color: RGB(20,31,42);
+	background-color: RGB(59,83,101);
+	border: RGB(20,31,42);
+}
+
+.lien20:hover{
+	color: white;
+	
+}
+.lien10:hover{
+	color: white;
+	
+}
+.lien20:active{
+	border: RGB(20,31,42);
+	color: white;
+}
+
+.lien400{
+	margin-top: 30px;
+	margin-left: 30px;
+	color:RGB(20,31,42);
+	background-color:  RGB(59,83,101);
+	border: RGB(20,31,42);
+
+}
+
+
+.lien400:hover{
+	color: #00aeef;
+	
+}

@@ -1,0 +1,50 @@
+
+.img-containe{
+	margin-left: 15px;
+	margin-top: 20px;
+	background: RGB(59,83,101);
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+}
+.img-containe img{
+
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+}
+.shadow-textarea{
+	margin-left: 10px;
+	width: 530px;
+	color: RGB(59,83,101);
+}
+#exampleFormControlTextarea6{
+	background-color:  RGB(59,83,101);
+	border:0px;
+	color:white;
+	border-radius: 20px;
+	resize: none;
+}
+#exampleFormControlTextarea6:active{
+	border:0px;
+}
+.bout{
+	margin-left: 520px;
+	border-radius: 25px;
+	height: 40px;
+	background-color: RGB(59,83,101);
+	color: #00aeef;
+}
+.bout:active{
+	background-color:   #00aeef;
+	text-decoration-color: RGB(59,83,101);
+	color-profile: RGB(59,83,101);
+	border-color: #00aeef;
+
+}
+.bout:hover{
+	background-color:   RGB(59,83,101);
+	text-decoration-color: #00aeef;
+	color-profile: RGB(59,83,101);
+}
+

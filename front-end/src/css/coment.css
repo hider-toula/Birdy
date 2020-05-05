@@ -1,0 +1,17 @@
+.coment{
+	width: 470px;
+	margin-left: 10px;
+}
+.contain{
+	margin-left: 50px;
+	width: 500px;
+	margin-top: 10px;
+	border: 3px solid RGB(59,83,101);
+	margin-bottom: 50px;
+	background-color: RGB(59,83,101);
+	border-radius: 15px;
+}
+h6{
+	margin-top: 10px;
+	margin-left: 15px;
+}

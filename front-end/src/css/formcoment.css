@@ -1,0 +1,35 @@
+.img-contain{
+	margin-left: 15px;
+	margin-top: 20px;
+	background: RGB(59,83,101);
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+}
+.img-contain img{
+
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+}
+
+.pr{
+	margin-left: 10px;
+	width: 555px;
+	color: RGB(59,83,101);
+}
+
+.boutn{
+	border-radius: 25px;
+	height: 20px;
+	background-color: RGB(59,83,101);
+	color: #00aeef;
+}
+.boutn:active{
+	background-color:   #00aeef;
+	text-decoration-color: RGB(59,83,101);
+	color-profile: RGB(59,83,101);
+	border-color: #00aeef;
+
+}
+
